@@ -314,6 +314,7 @@ footer {
      .nav-logo {
         height: 45px;
         width: 75px;
+        margin-left: 15px;
     }
 
     .logo img {
@@ -323,22 +324,23 @@ footer {
 
  /* ------- Box2 ------- */
     .add-first {
-        font-size: 0.6rem;
-        margin-left: 10px;
+        font-size: 0;
+        margin-left: 0;
     }
 
     .add-second {
-        font-size: .8rem;
-        margin-left: 3px;
+        font-size: 0;
+        margin-left: 0;
     }
 
     .add-icon {
-        font-size: 14px;
+        font-size: 0;
+        margin: 0;
     }
 
  /* ------- Box3 ------- */
     .nav-search {
-        width:200px;
+        width:300px;
         height: 25px;
         margin-left: 15px;
     }
@@ -372,7 +374,7 @@ footer {
 
  /*------- Box6 -------*/
      .nav-cart i{
-        font-size: 18px;
+        font-size: 20px;
     }
 
     .nav-cart {
@@ -387,16 +389,20 @@ footer {
     justify-content: center;
     align-items: center;
     }
-
+    .resp1 {
+        font-size: 0;
+        margin: 0;
+        padding: 0;
+    }
     .panel-ops ul li {
         display: inline;
-        margin-left: 5px; 
+        margin-left: 5px;
     } 
 
     .panel-all {
         font-size: 0.7rem;
         width: 35px;
-        margin-left: 3px;
+        margin-left: 5px;
     }
 
     .panel-ops ul{
@@ -407,7 +413,7 @@ footer {
     .panel-deals {
         font-size: 0.65rem;
         width: 27%;
-        margin-right: 3px;
+        margin-right: 5px;
     }
 
  /* ------- Hearo Section ------- */
@@ -416,7 +422,7 @@ footer {
     }
 
     .hero-msg {
-        height: 30px;
+        height: 40px;
         font-size: 0.65rem;
         margin-bottom: 25px;
         padding: 0 10px;
@@ -429,15 +435,15 @@ footer {
     }
 
     .box {
-        height: 250px;
-        width: 92%;
+        height: 200px;
+        width: 90%;
         margin: 20px 10px 0 10px;
     }
 
     .box-img {
-        height: 200px;
-        margin-top: .95rem;
-        margin-bottom: .75rem;
+        height: 150px;
+        margin-top: .9rem;
+        margin-bottom: .65rem;
     
     }
 
@@ -464,6 +470,7 @@ footer {
         height: 550px;
         display: grid;
         grid-template-columns: repeat( 2,1fr);
+        padding: 0 20px;
     }
 
     .foot-panel2 ul {
