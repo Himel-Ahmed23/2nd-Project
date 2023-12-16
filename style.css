@@ -379,7 +379,8 @@ footer {
 
     .nav-cart {
         font-size: 0.75rem;
-        margin: 15x;
+        margin-left: 10px;
+        margin-right: 5px;
         width: 65px;
     }
 
@@ -403,11 +404,10 @@ footer {
     .panel-all {
         font-size: 0.7rem;
         width: 35px;
-        margin-left: 5px;
     }
 
     .panel-ops ul{
-        width: 90%;
+        width: 85%;
         font-size: 0.6rem;
     }
 
