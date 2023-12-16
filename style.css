@@ -340,7 +340,7 @@ footer {
 
  /* ------- Box3 ------- */
     .nav-search {
-        width:300px;
+        width:250px;
         height: 25px;
         margin-left: 15px;
     }
@@ -379,7 +379,7 @@ footer {
 
     .nav-cart {
         font-size: 0.75rem;
-        margin-right: 15x;
+        margin: 15x;
     }
 
  /* ------- Panel Section ------- */
@@ -411,9 +411,9 @@ footer {
     }
 
     .panel-deals {
-        font-size: 0.65rem;
-        width: 27%;
-        margin-right: 5px;
+        font-size: 0;
+        width: 0;
+        margin: 0;
     }
 
  /* ------- Hearo Section ------- */
@@ -487,12 +487,12 @@ footer {
 
  /* ------- foot-panel-3 ------- */
     .foot-panel3 {
-        height: 65px;
+        height: 60px;
     }
 
  /* ------- foot-panel-4 ------- */
     .foot-panel4 {
-        height: 60px;
+        height: 65px;
         font-size: 0.60rem;
     }
 
