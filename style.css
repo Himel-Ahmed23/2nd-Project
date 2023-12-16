@@ -380,6 +380,7 @@ footer {
     .nav-cart {
         font-size: 0.75rem;
         margin: 15x;
+        width: 65px;
     }
 
  /* ------- Panel Section ------- */
@@ -406,7 +407,7 @@ footer {
     }
 
     .panel-ops ul{
-        width: 80%;
+        width: 90%;
         font-size: 0.6rem;
     }
 
