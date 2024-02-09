@@ -374,14 +374,14 @@ footer {
 
  /*------- Box6 -------*/
      .nav-cart i{
-        font-size: 20px;
+        font-size: 18px;
     }
 
     .nav-cart {
-        font-size: 0.75rem;
+        font-size: 0rem;
         margin-left: 10px;
-        margin-right: 5px;
-        width: 65px;
+        margin-right: 4px;
+        width: 60px;
     }
 
  /* ------- Panel Section ------- */
